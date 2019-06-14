@@ -1,0 +1,58 @@
+body {background: #A7E0F9;
+ color: #000000;
+ column-count:3;
+ font: 125% sans-serif;
+}
+
+*{
+ margin:1;
+ padding:1;
+
+}
+
+h5 {
+ color:#A7E0F9
+
+}
+
+h6 {
+ color:#875734;
+ position:center;
+ left:900px;
+}
+
+.check {
+ background:#D0E8F0;
+}
+
+.area {
+ 
+ 
+}
+
+.position {
+ position:relative;
+ bottom:75px;
+ left:800px;
+ 
+ color:#397675;
+}
+
+.position2 {
+ position:relative;
+ bottom:70px;
+ left:800px;
+ color:#C72EAC;
+}
+
+.position3 {
+ position:relative;
+ left:600px;
+
+}
+
+.position4 {
+ position:relative;
+ left:400px;
+
+}
